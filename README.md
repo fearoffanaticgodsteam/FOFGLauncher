@@ -15,4 +15,4 @@ Bu projede temiz bir görünüm sağlamak önceliğimizdir. Her şeyi sezgisel v
 * İnstagram :     - https://www.instagram.com/fofgteam/
 * Youtube :       - https://www.youtube.com/@deathmaniac
 * Discord :       - https://discord.gg/6NcGNHjHcv
-* Website :       - http://fofglauncher.com.tr/
+* Website :       - http://fofglauncher.com.tr//
