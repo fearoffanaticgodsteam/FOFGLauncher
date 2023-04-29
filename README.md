@@ -14,4 +14,4 @@ Bu projede temiz bir görünüm sağlamak önceliğimizdir. Her şeyi sezgisel v
 * Facebook :      - (YAKINDA)
 * İnstagram :     - https://www.instagram.com/fofgteam/
 * Youtube :       - https://www.youtube.com/@deathmaniac
-* Discord :       - https://discord.gg/CjtdUrjCyD
+* Discord :       - https://discord.gg/6NcGNHjHcv
